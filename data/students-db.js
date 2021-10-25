@@ -1,7 +1,7 @@
 const students = [
   {name: 'Alejandro Rizo', done: true, _id: 125223},
   {name: 'Kylar Baru', done: false, _id: 127904},
-  {name: 'Your Mom', done: false, _id: 139608},
+  {name: 'Jack Lillies', done: false, _id: 139608},
 ]
 
 const find = (conditions, callback) => {
